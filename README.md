@@ -1,5 +1,8 @@
 # House Prices: Advanced Regression Techniques
 
+## 📚 Acknowledgements
+Этот проект был вдохновлен и построен на основе материалов курса [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) от DataTalksClub. 
+
 Решение задачи регрессии для предсказания цен на жилье (Kaggle House Prices). Реализована собственная версия Ridge-регрессии на NumPy.
 
 ## 📊 Результаты
