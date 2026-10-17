@@ -110,8 +110,17 @@
 
 22. Загрузка test.csv
 
-
+<img width="371" height="73" alt="image" src="https://github.com/user-attachments/assets/488a1353-79f4-464f-8a42-59fecb9bc00a" />
 
 23. Базовая предобработка test.csv (по аналогии как выше)
+
+<img width="1509" height="183" alt="image" src="https://github.com/user-attachments/assets/fba89304-e14e-4d6a-a3c4-f7f8c8faf4ee" />
+
 24. Стандартизация как в train.csv и просмотр диапазонов предсказанных цен через min/max/mean/median и поиск NaN
+
+<img width="263" height="170" alt="image" src="https://github.com/user-attachments/assets/9a0c26d1-a4ba-46bd-a109-d85052c4b1ec" />
+
 25. Конечный submission
+
+<img width="326" height="280" alt="image" src="https://github.com/user-attachments/assets/673b0ff4-2f9e-4867-a8d6-aea91123b0b2" />
+
