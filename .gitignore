@@ -1,0 +1,19 @@
+# Данные (не загружаем на GitHub)
+data/*.csv
+data/*.txt
+*.csv
+!submissions/submission_full.csv
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Системные файлы
+.DS_Store
